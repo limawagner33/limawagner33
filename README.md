@@ -55,16 +55,10 @@
 <br/>
 
 <h2 align="center">📊 Minhas Estatísticas</h2>
-<div align="center">
-  <a href="https://github.com/limawagner33">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limawagner33&show_icons=true&theme=tokyonight&include_all_commits=false&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limawagner33&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=limawagner33&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
 
 <div align="center">
   <h2>📫 Vamos nos conectar?</h2>
