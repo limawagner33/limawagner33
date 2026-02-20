@@ -36,20 +36,28 @@
 
 <br/>
 
-<h2 align="center">🌟 Projeto em Destaque</h2>
+<h2 align="center">🌟 Projetos em Destaque</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/limawagner33/sorting-visualizer">
-          <img src="https://img.shields.io/badge/Sorting%20Visualizer-Projeto%20Recente-blue?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Visualizador%20Algoritmos-blue?style=for-the-badge" />
         </a>
         <br/>
         Visualizador de Algoritmos (Bubble & Quick Sort) feito com React.
       </td>
+      <td align="center">
+        <a href="https://github.com/limawagner33/Analise_de_Churn_e_Retencao_de_Clientes_Projeto_Power_BI">
+          <img src="https://img.shields.io/badge/Analise%20de%20Churn%20e%20Retencao%20de%20Clientes-blue?style=for-the-badge" />
+        </a>
+        <br/>
+        Um dashboard de Analise Churn e Retenção de clientes - feito com POWER BI.
+      </td>
     </tr>
   </table>
+   
 </div>
 
 <br/>
