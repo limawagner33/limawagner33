@@ -50,10 +50,24 @@
       </td>
       <td align="center">
         <a href="https://github.com/limawagner33/Analise_de_Churn_e_Retencao_de_Clientes_Projeto_Power_BI">
-          <img src="https://img.shields.io/badge/Analise%20de%20Churn%20e%20Retencao%20de%20Clientes-blue?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Analise%20de%20Churn%20e%20Retencao-blue?style=for-the-badge" />
         </a>
         <br/>
         Um dashboard de Analise Churn e Retenção de clientes - feito com POWER BI.
+      </td>
+      <td align="center">
+        <a href="https://github.com/limawagner33/projeto-helpdesk-salesforce">
+          <img src="https://img.shields.io/badge/Projeto%20Helpdesk%20Salesforce-blue?style=for-the-badge" />
+        </a>
+        <br/>
+        Desenvolvimento Full-Stack em nuvem para automação de SLA e gestão de chamados.
+      </td>
+      <td align="center">
+        <a href="https://github.com/limawagner33/limawagner33.github.io">
+          <img src="https://img.shields.io/badge/Portfolio%20-blue?style=for-the-badge" />
+        </a>
+        <br/>
+        Meu site, sobre mim. Ficou curioso? entra lá, é o meu portfólio.
       </td>
     </tr>
   </table>
